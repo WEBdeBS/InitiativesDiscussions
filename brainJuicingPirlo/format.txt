@@ -3,7 +3,11 @@ disparati, non sempre squisitamente tecnici, che toccano la nostra vita di
 nerds.
 
 In breve:
-- "Pitch Hour": un'ora in cui chiunque voglia ha 5minuti (al massimo) per esprimere il suo punto di vista sulla questione. Puo' portarsi slides se non rompe il cazzo con la compatibilita'
+- "Pitch Hour": un'ora in cui chiunque voglia ha 5minuti (al massimo) per
+  esprimere il suo punto di vista sulla questione. Puo' portarsi slides se non
+  rompe il cazzo con la compatibilita'.
+  Se non si puo' partecipare fisicamente si puo' mandare il prorpio
+  video-pitch con le medesime regole e limitazioni.
 - Se qualcuno che sa disegnare (e c'ha voglia) sarebbe bello magari fare dei piccoli fumettini che riassumano i pitch
 - una piccola webapp da proiettarsi a latere (su altro video proiettore), con cui la gente puo' votare ogni intervento
 - Discussione libera (ed eventuale integrazione della "visione" con nuovi spunti)
